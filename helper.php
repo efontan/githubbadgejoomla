@@ -6,6 +6,7 @@
  * @version   1.0.0 - 04/08/2012
  * @author    Emmanuel Fontan
  * @copyright (C) 2012 Emmanuel Fontan
+ * This module is based on the Github Badge project, created by Berker Peksag (@berkerpeksag) and Burak Yigit Kaya (@madbyk). Read more: http://github.com/berkerpeksag/github-badge.
  *
  * @license		GNU/GPL, see LICENSE.php
  * This program is free software: you can redistribute it and/or modify
